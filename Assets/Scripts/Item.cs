@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Item 스크립트
 public class Item : MonoBehaviour
 {
     public enum Type { Ammo, Coin, Grenade, Heart, Weapon };
